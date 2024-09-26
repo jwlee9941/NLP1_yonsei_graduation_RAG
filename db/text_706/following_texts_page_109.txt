@@ -1,0 +1,52 @@
+UN 
+伞 진리와 자유를 향한 연세의 도전 
+Excellence, Innovation, Engagement 
+대 학 
+학부의 정규 통계과목에서 다루어지지 않는 통계 또는 확률의 이론 분야와 최근 개발된 통계방법들을 이론적으로 심도있게 다룬 
+다. 
+STA4108 통계학의응용(2)(Applied Statistics(2)) 
+통계적 추정 및 검정, 상관 및 회귀분석, 분산분석, 분할표의 분석, 기초 다변량 분석법 등을 실제 자료에 응용하는 기법을 다룬 
+다. 그리고 통계적 모의 실험방법론을 포함한다. 
+STA4109 통계자료분석(Statistical Data Analysis) 
+SAS, SPSS, BMDP, MINITAB 등의 통계 패키지를 사용하여 실제 데이터를 분석하는 방법을 배운다. 통계패키지의 사용법 
+자체보다는 문제의 구성, 통계 모형의 가정 및 결과의 분석을 중시한다. 
+STA4110 실해석학(Real Analysys) 
+해석학(analysis)의 기본 개념을 배우고 확률론에 자주 사용되는 수리적 문제 풀이 능력을 기른다. 
+STA4111 보험통계(Statistics For Insurance) 
+생존분포와 생명표, 생명보험, 이자론, 기본연금과 일반연금, 생존연금, 순 보험료 등 보험분야에 적용할 수 있는 방법론을 강의 
+한다. 
+STA4112 보험통계(2)(Statistics For Insurance(2)) 
+보험통계의 고급과목으로, 보험분야에 적용되는 방법론들을 이론적으로 보다 심도 있게 다룬다. 
+STA4114 손해보험통계(Statistical Models For General Insurance) 
+손해보험에서 관측되는 손실의 빈도와 심도모형을 모수적, 비모수적 통계 분포이론을 통해 배우고 리스크를 측정하는 방법을 학 
+습한다. 
+STA4115 이론통계학(1)(Theoretical Statistics(1)) 
+수리통계학에 기초하여 통계학 전반에 관한 이론적 접근방법을 배운다. 
+STA4116 데이터사이언스(1):데이터통합과정보보호(Data Science |: Data Integration And Data Privacy) 
+데이터 결합을 위한 통계적 방법론과 데이터 알고리즘을 배운다. 또한, 데이터 거래, 공개 및 결합 등으로 발생할 수 있는 노출 
+리스크와 노출 리스크 제어 방법론을 소개한다. 
+STA4117 데이터사이언스(2):네트워크자료분석(Data Science II: Network Data Analysis For Data Science) 
+데이터 조작, 시각화, 기술 분석 및 모델을 포함하여 네트워크 데이터를 처리하기 위한 모든 기본 분석 방법론을 다룬다. 
+STA4118 인과적추론(Causal Inference) 
+인과 추론에 대해 반사실 기반 관점에서 매개 및 상호 작용을 찾아내는 방법론을 다룬다. 
+STA4119 데이터사이언스를위한QISKIT(Qiskit For Data Science) 
+양자 컴퓨팅을 실행하기 위한 파이썬 기반 프로그래밍 소프트웨어인 QISKIT을 학습한다. QISKIT으로 양자회로를 작성하고 양 
+자 알고리즘을 생성한 후 클라우딩을 통하여 양자컴퓨터로 접속하여 프로그램을 실행하는 과정으로 다양한 데이터사이언스 계산 
+방법을 학습한다. 
+STA4120 고급데이터사이언스방법론(Advanced Data Science Techniques) 
+데이터사이언스에 주로 사용되는 알고리즘 및 통계적 방법론을 sampling, weighting, optimization의 관점에서 소개한다. 
+STA4122 데이터사이언스를위한정보이론(Informatiom Theory For Data Science) 
+정보이론의 개념을 소개하고 해당 개념이 응용분야에서 활용되는 예시를 논의하는 것을 목표로 정보이론의 기본 개념과 정보이 
+론의 개념들이 기계학습 및 데이터사이언스에 활용되는 예시들을 소개한다. 
+STA4123 데이터사이언스를위한최적화개론(Intracluction to Optimization for Data Science) 
+데이터사이언스에서 활용하는 다양한 종류의 최적화 기법을 소개한다. 
+STA4124 생성모델(Generative Model) 
+생성모델 분야는 본 과목에서는, 생성모델을 이해하기 위한 중요한 수학적 원리와 이를 기반으로 한 심층생성모델을 학습하는 것 
+을 목표로 한다. 우선 여러 가지 확률 이론 및 확률미분방정식에 대한 내용을 다루게 되며, 해당 내용을 토대로 다양한 심층생성 
+모델 (Autoregressive Model, Variational Autoencoder, Generative Adversarial Nets, Generative Flow, 
+Energy-Based Model, Diffusion and Score-Based Model) 에 대해서 학습한다. 
+STA4125 고차원재료분석(High-dimensional data analysis) 
+고차원 데이터에 대한 다양한 최신 통계기법을 배우고 실제 응용 데이터에 적용하게 된다. 데이터의 차원이 샘플 크기와 비슷하 
+거나 더 큰 데이터 분석의 어려움을 체계적으로 이해할 수 있게 된다. 특히 다양한 (비)볼록 penalization 기법, 차원 축소 등에 
+대한 폭넓은 이해를 얻게 되며 고차원 데이터를 효과적으로 요약하고 해석하는 방법을 배우게 된다. 
+108 2024 연세대학교 대학요 람

@@ -1,0 +1,44 @@
+공동체 정신을 지닌 혁신적 리더 
+습식 정량분석, 전기화학, 분광학, 분리법에 대한 분석실험 
+CHE3115 유기화학실험(Organic Chemistry Experiment) 
+유기화합물의 합성과 실험기술 습득 
+CHE3116 무기화학실험(Inorganic Chemistry Experiment) 
+무기화합물의 합성과 실험기술 습득 
+CHE3117 물리화학실험(Physical Chemistry Experiment) 
+현대 실험장치들을 이용한 열역학, 화학평형, 분자구조, 화학반응속도, 전기화학. 분자동력학 등의 물리화학실험 
+CHE4107 고등화학전공실험(Advanced Chemistry Major Experiment) 
+배정된 교수연구실에서 연구 수행 
+2. 전공선택 
+SCI2001 전자계산(1)(Computer 1) 
+과학기술용 컴퓨터 프로그래밍 입문. 컴퓨터 언어(C/C++, PYTHON 등) 문법 학습 및 이를 바탕으로 한 프로그래밍 실습 
+CHE3102 분석화학2(Analytical Chemistry2) 
+정량분석법의 기초이론, 용액화학, 화학평형, 산, 염기 및 산화환원 반응, 착이온 형성반응, 부피분석, 무게분석, 분리분석 및 
+기기분석 입문 
+CHE3103 무기화학2(Inorganic Chemistry2) 
+주족원소를 중심으로 한 무기화합물의 전자구조, 화학결합 및 기초 배위화학, 주족원소 화합물의 반응성, 생무기 화학 
+CHE3104 생물유기화학(Bioorganic Chemistry) 
+생체분자인 탄수화물, 아미노산/페바이드, 핵산의 반응 및 이들에 대한 기초적인 생물학적 의미 고찰 
+CHE3106 유기신소재화학(Organic Advanced Materials Chemistry) 
+소재분야에서 응용되는 유기화합물의 기초화학, 유기반도체, 디스플레이, 신재생에너지소재, 의료용소재 
+CHE3108 기기분석(Instrumental Analysis) 
+분광분석, 질량분석, 전기분석, 열분석, 방사화학분석, 분리분석 등 기기분석의 이론과 방법 
+CHE3118 진료개발세미나(화학과)(Sophomore and Junior Career Seminar) 
+화학과 전공 2,3학년 학생들의 진로에 대한 구체적 이해 증진 
+CHE4101 유기합성(Organic Synthesis) 
+중요한 지방족 및 방향족 화합물의 합성법, 탄소고리연결반응, 작용기 상호변화, 붕소, 인, 황의 유기화합물 합성법, 유기합성의 
+새로운 방향과 개념 
+CHE4102 분자분광학 및 동역학(Molecular Spectroscopy and Dynamics) 
+전자기파와 물질간의 상호작용에 관한 이해 및 실험적 분광학 방법, 그리고 기체상의 분자의 운동에 대한 이해와 분자 반응 
+동역학에 대한 기본이론 및 실험과정에 대한 총괄적인 고찰 
+CHE4103 물리유기화학(Physical Organic Chemistry) 
+유기반응에서의 구조, 입체장애 및 입체 전자효과와 유기 반응메카니즘의 고찰 
+CHE4105 유기금속화학(Organometallic Chemistry) 
+촉매화학을 이해하기 위한 유기금속화합물의 결합특성 및 반응성, 뭉치화합물, 균일촉매 반응, 생유기금속화학 
+CHE4109 무기신소재화학(Inorganic Materials Chemistry) 
+첨단 무기소재 물질의 이론, 합성, 분석 및 응용을 다루며 무기결정구조, 합성, 결합, 표면/벌크/원자단위 분석, 
+광학/자성/전기적 특성 및 응용, 나노과학 등의 고찰 
+CHE4110 양자화학(Quantum Chemistry) 
+기본적인 양자개념과 이론 및 원자와 분자에 대한 양자이론의 계산과 응용 
+CHE4112 화학인공지능기초 (Basic AI for Chemistry) 
+화학과 인공지능 원리 학습에 필요한 수학 및 인공지능의 기본 원리, 화학 및 화학 관련 활용 사례 
+이과대학 145

@@ -1,0 +1,49 @@
+공동체 정신을 지닌 혁신적 리더 
+(Polynomial Rings), 유일인수분해정역(Unique Factorization Domains), 중국의 나머지정리(Chinese remainder 
+theorem) ; 체(Fields) : 체의 확장(Field Extensions), 유한체(Finite fields), 작도 불능 문제와 5차 방정식 풀이 불가능 
+(Ruler and Compass Construction and Solving Equations by Radicals), 초월 수(Transcendental Numbers), 다항 
+식의 분해체(Splitting Fields), 분리 화대체(Seperable Extensions), 갈루와군(Galois Group), 갈루와확장(Galois 
+Extensions) ; 응용(Applied Algebra) : 부호이론(Coding Theory), 암호이론(Cryptology) 
+2. 전공선택 
+MAT2003 주니어세미나 (Junior Seminar ) 
+수학 기초학문 분야 최신이론 소개, 전문적인 학문동향제시, 전공별 연구방법, 학생이 주체가 되어 시행하는 프로젝트 중심의 교 
+과운영. 
+MAT2102 *선형대수(1)(Linear Algebra(1)) 
+행렬과 연립방정식계(Matrices and System of Linear Equations), 백터공간(Vector Spaces), 일차변환과 행렬표현 
+(Linear Transformations and Matrix Representations), 벡터공간의 구조(Structure of Vector Spaces), 겹선형형식과 
+내적공간(Bilinear Forms and Inner Product Spaces), 행렬식(Determinants), 고유벡터와 고유값(Eigenvectors and 
+Eigenvalues). 
+MAT2103 통계학(Statistics) 
+확률의 정의, 확률공간, 확률변수, 확률분포 등 확률론의 기본개념, 확률표본, 표본분포, 통계적 추론의 기본개념, 여러 모수의 
+추정, 가설검정, 상관과 회귀, 분산분석, 범주형 자료분석 등을 강의하고 통계팩키지로 SAS, SPSS 등을 실습. 
+MAT2104 집합론(Set Theory) 
+집합의 연산, 함수와 관계, cardinal수, 순서수, 선택공리, 여러 가지 paradoxes, Zermelo Fraenkel 집합론. 
+MAT2105 과학계산(Scientific Computing) 
+Unix환경과 Windows, symbolic software package (Maple 또는 Mathematica), Matlab, Fortran과 C언어, 
+GNUplot, Floating point representation, Bisection method, Newton's method, Interpolation and numerical 
+differentiation, Numerical Integration 등 수학문제를 해결하는데 필요한 컴퓨터를 다루는 기본적인 방법을 소개. 
+MAT2106 이산수학(Discrete Mathematics) 
+집합과 관계, 알고리즘과 분석, 회귀관계, 기초 정수론, 그래프 이론, Boolean 대수, 논리적회로, 언어와 문법, 유한상황 기계의 
+고안과 구성, Turing기계. 
+MAT2421 *상미분방정식(Ordinary Differential Equations ) 
+물리적 세계의 대부분의 현상들은 미분방정식으로 설명된다. 기초적인 미분방정식 이론의 습득을 위하여 선형미분방정식 관련 
+Laplace 변환, Fourier 변환, 멱급수 전개법 등을 공부한다. 여러 가지 응용을 위하여 가장 기초적인 선형 미분방정식인 
+Legendre 방정식, Bessel 방정식 등과 함께 Green 함수법, 경계치 문제 등을 공부한다. 상수 계수 고차 상미분 방정식계의 
+해법과 관련하여 basic linear algebra, matrix eigenvalue에 대해서도 배운다. 
+MAT3101 대수적위상수학(Algebraic Topology) 
+Homotopy, Simplical complexes, Fundamental군, Covering공간, CW-complexes, 단체, 복체와 다면체, 
+Homology군, Homology사상, 부동점 정리, 쌍대성. 
+MAT3102 미분기하(2)(Geometry(2)) 
+공변도함수, 틀장, 접속형식, 구조방정식, 모양연산자, 법곡률, 가우스곡률, 측지선, 기본방정식, 방향과 적분, 전곡률, 공변도함 
+수, Gauss-Bonnet 정리와 응용. 
+MAT3111 *확률론(Probability Theory) 
+확률공간상에 정의된 확률변수, 확률변수의 확률분포, 그의 평균 및 분산, 대표적인 확률분포 등을 다루고, Tail bound, Law of 
+large numbers, Central limit theorem, Conditional probability and expectation 등을 소개. 
+MAT3112 복소해석학(Complex Analysis) 
+Cauchy's theorem, Conformal mapping, Harmonic functions, Gamma function, the Riemann zeta function, 
+Phragmen-Lindel�f principle, Hadamard's factorization theorem, Elliptic functions. 
+MAT3113 확률과정론(Stochastic Processes) 
+조건부 확률, 확률과정의 개념, Markov연쇄, Poisson과정, renewal가정, 마팅게일(martingale) 등의 초보적 확률과정론과 
+확률현상을 갖는 금융문제를 비롯한 여러 수리모형에의 응용을 다룬다. 
+MAT3114 수치해석(Numerical Analysis) 
+이과대학 133

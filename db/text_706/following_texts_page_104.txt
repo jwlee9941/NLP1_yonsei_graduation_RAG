@@ -1,0 +1,51 @@
+공동체 정신을 지닌 혁신적 리더 
+ECO4121 현대경제정책의 분석과 이해 (Topics in Contemporary Economic Policy) 
+복잡한 현대 사회에서 경제정책은 계층과 세대에 따라 상이한 영향을 미치기 때문에 경제정책에 대한 과학적 이해가 정책의 수립 
+과 이행의 측면에 필수적이다. 본 과목은 사례 중심으로 논쟁거리가 되고 있는 경제적 사건들과 정책들에 대한 경제학적 논리를 
+이해하고 관련 분야의 실증분석을 살펴 봄으로써 사회 제반 이슈에 대한 엄정한 논리 정립을 목표로 한다. 수강생들은 매주 논문 
+들과 관련 기사 및 블로그를 읽으며 토론에 활발하게 참여해야 한다. 
+ECO4122 개발경제특수문제(Current Issues in Development Economics) 
+본 과목은 학부 4학년 학생들에게 개발경제학의 최근 이슈들을 소개하는 데 그 목적이 있다. 특히 개발도상국이 겪고 있는 중요 
+한 문제들과 이를 해결하기 위한 정책들을 미시적 관점에서 분석하기 위한 방법론과 그 적용 사례들을 연구한다. 
+ECO4124 시장설계(Market Design) 
+본 과목은 학부 학생에게 시장설계의 기본 이론 및 실제 사례를 접할 수 있는 기회를 제공하는 데 목적이 있다. 시장설계는 
+경제학 이론, 실험, 실증분석을 이용하여 시장 및 기관의 규칙을 고안하는 경제학의 분야이다. 본 과목은 크게 매칭이론, 
+경매이론, 인터넷 시장의 플랫폼 고안 등에 대해 다룬다. 우선, 매칭이론에서는 가격을 이용하지 않는 분배 메커니즘에 대해 
+다루며, 각종 매칭 알고리즘 및 노동시장, 학교선택, 장기기증 등의 응용사례를 살펴본다. 다음으로, 경매이론에서는 경매의 
+기본 형태, 수익동등정리, 최적경매고안에 대해 배우며 응용사례로서 주파수경매, 검색엔진의 키워드경매 등을 살펴본다. 
+마지막으로, 온라인경매, 소셜네트워킹서비스, 앱스토어 등 인터넷 시장의 플랫폼 고안에 대한 이슈를 다룬다. 
+ECO4125 거시경제학의수량분석(Quantitative Macroeconomics) 
+본 과목은 경제학부 3, 4학년을 대상으로 최근 경제학계에서 중심적인 분석의 틀로 활용되고 있는 동태적 거시경제모형들을 이 
+론적으로 학습하고 해당 이론들의 성질을 컴퓨터를 이용하여 수량적으로 분석하는 기법을 학습한다. 본 과목의 목적은 학생들이 
+경제이론을 수량분석 알고리즘을 이용하여 분석모형으로 구현할 수 있는 능력을 배양하는 것이다. 이를 위해 프로그램언어를 습 
+득하는 것을 현실적인 목표로 한다. 
+ECO4300 정보및게임이론(Information and Games) 
+This course begins with a short introduction to the theory of decisions under uncertainty, including risk 
+aversion and optimal risk sharing, as well as basic game theory. The main focus of the course is on the 
+problems of economic transactions when people have different information. The course will deal with 
+models explicitly involving strategic behavior, information transmission, and contracting. The topics include 
+(1) moral-hazard and adverse-selection problems in optimal principal-agent contracts, (2) games with 
+communication and mechanism design under incomplete information, and (3) bargaining and cooperation in 
+cooperative game theory. 
+ECO4861 응용계량거시경제학(Empirical Macroeconomics) 
+이 과목은 거시경제학에서 쓰이는 시계열 자료의 모델 및 추정 방법을 다룬다. 특히 이 강의에서는 석유 시장에 관한 다양한 최신 
+연구를 활용하여 경제동향예측 및 구조적 분석을 할 수 있는 여러 실증 분석 모형과 방법을 배우는 것에 초점을 둔다. 이 강의의 
+목표는 다양한 분야에서 학생들이 시계열 데이터를 분석할 수 있는 지식을 갖추어 거시계량경제학의 활용도를 높이도록 하는 것 
+이다. 
+ECO4862 국제금융시장분석(Analysis of International Financial Market) 
+This course is designed to provide students with a comprehensive introduction to international financial 
+markets with the purpose of enhancing their understanding of the markets with the view that the importance 
+of the markets has grown rapidly in recent years especially as an influential stage for business firms and 
+governments alike. 
+ECO4863 한국경제사(Korean Economic History) 
+한국사에서의 경제활동을 경제이론에 입각하여 분석하고, 경제체제의 변화 경제발전 단계 등을 고찰한다. 
+ECO4864 글로벌경제와미래(GLOBAL ECONOMY AND FUTURE) 
+경제학과 관련된 여러 분야의 전문가를 초청하여 학생들의 경제학의 이해도 증진 및 향후 진로 설정에 도음을 제공하는 것을 목 
+표로 함. 
+ECO4865 부동산금융론(Real Estate Finance and Economics) 
+This course aims to understand basic concepts in real estate finance. It covers basic concepts in mortgages. 
+time value of money. income producing property taxes, and real estate investment and accounting issues. In 
+addition, I will cover recent issues in real estate finance, such as household debt or sub-prime crisis in the 
+US. 
+ECO4866 행동경제학(Behavioral Economics) 
+상경대학 103
